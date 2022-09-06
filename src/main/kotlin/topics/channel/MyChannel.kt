@@ -1,4 +1,4 @@
-package topics
+package topics.channel
 
 import kotlinx.coroutines.*
 import kotlinx.coroutines.channels.Channel

@@ -1,4 +1,4 @@
-package topics
+package topics.flow
 
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
